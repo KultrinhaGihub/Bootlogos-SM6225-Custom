@@ -22,7 +22,6 @@ This is the most different repository I've ever made, inspired by the readme of 
 
 <h1 align="center">📲 Tutorial to flash bootlogo</h1>
 
-<p align="left">
 1. Reboot to bootloader mode
 2. enter command to flash bootlogo:
   
