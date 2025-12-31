@@ -26,8 +26,9 @@
 <p align="left">
 1. Reboot to bootloader mode
 2. enter command to flash bootlogo:
-'''bash
+  
+```bash
 fastboot flash logo <path/to/logo.bin>
-'''
+```
 3. Reboot the phone and finish! Bootlogo flashed!!
 </p>
