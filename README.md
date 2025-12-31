@@ -20,6 +20,12 @@ This is the most different repository I've ever made, inspired by the readme of 
   <img src="IMGs/logo_boot_tux.png" width="30%" />
 </p>
 
+<h1 align="center">❗ Requeriments</h1>
+
+- Unlocked Bootloader
+- PC or OTG with other phone (Use Bugjaeger)
+- Android Platform Tools (with installed Motorola USB driver on Windows)
+
 <h1 align="center">📲 Tutorial to flash bootlogo</h1>
 
 1. Reboot to bootloader mode
