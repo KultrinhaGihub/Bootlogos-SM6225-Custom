@@ -1,7 +1,6 @@
 <h1 align="center">📱 Bootlogos custom for Family Moto Gx2 SM6225</h1>
 
-<p align="left">
-<b>This is the most different repository I've ever made, inspired by the readme of DevHiOliveira from XOS, I don't have much to describe here, it's just a repository with the bootlogos that I do out of boredom, even this repository was made because I got very bored, anyway, let's go to the different previews<br>
+This is the most different repository I've ever made, inspired by the readme of [DevHiOliveira](https://github.com/devhioliveira) from [XOS Port](https://github.com/devhioliveira/xos_port_g54-g64), I don't have much to describe here, it's just a repository with the bootlogos that I do out of boredom, even this repository was made because I got very bored, anyway, let's go to the different previews:
 
 <p align="center">
   <img src="IMGs/bootlogo_moto_bytizen_new1.png" width="30%" />
